@@ -19,9 +19,9 @@ class Pais(Base):
     capital = Column(String)
     continente = Column(String)
     dial = Column(String)
-    geonameID = Column(Integer)
+    geoname_id = Column(Integer)
     itu = Column(String)
     lenguajes = Column(String)
-    esIndependiente = Column(String)
+    Estado = Column(String)
 
 Base.metadata.create_all(engine)
