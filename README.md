@@ -33,6 +33,8 @@ Considerandos:
 	* Presentar todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 
 * Presentar capturas de pantalla de la base de datos en sqlite
+![imagen](https://github.com/PlataformasWeb-P-AA2024/taller06-joechuro1206/assets/159073776/a88f7fd6-44f9-4897-9322-a679e4e7d249)
+![imagen](https://github.com/PlataformasWeb-P-AA2024/taller06-joechuro1206/assets/159073776/c290cd74-6be6-4405-8023-3cf8ce94fa8c)
 
 ### Importante
 * Se sugiere realizar un script por cada tarea: crear entidad; guardar información y consultar información
